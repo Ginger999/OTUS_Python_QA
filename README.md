@@ -1,2 +1,2 @@
-# otus_python_qa
+# OTUS_Python_QA
 Курс Python QA Engineer
